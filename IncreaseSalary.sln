@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncreaseSalary", "IncreaseSalary.csproj", "{EE27DB7F-68E2-671B-83F8-9FAA309B8D10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncreaseSalary", "IncreaseSalary.csproj", "{7DF54C21-57F7-3A3C-07A2-1B5F32939FAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EE27DB7F-68E2-671B-83F8-9FAA309B8D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE27DB7F-68E2-671B-83F8-9FAA309B8D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE27DB7F-68E2-671B-83F8-9FAA309B8D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE27DB7F-68E2-671B-83F8-9FAA309B8D10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF54C21-57F7-3A3C-07A2-1B5F32939FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF54C21-57F7-3A3C-07A2-1B5F32939FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF54C21-57F7-3A3C-07A2-1B5F32939FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF54C21-57F7-3A3C-07A2-1B5F32939FAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BCDCBA65-13A2-4F05-98B9-851E02D38172}
+		SolutionGuid = {704B5BB3-185B-4120-B4DA-1B01D6D68608}
 	EndGlobalSection
 EndGlobal
